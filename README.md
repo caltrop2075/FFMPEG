@@ -1,5 +1,8 @@
 # ffmpeg
-ffmpeg utilities, making life simple
+
+automated ffmpeg stuff
+
+see individual scripts for instructions
 
 ffmpeg-hflip.sh
 --------------------------------------------------------------------------------
