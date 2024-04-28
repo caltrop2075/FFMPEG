@@ -1,3 +1,0 @@
-automated ffmpeg stuff
-
-see individual scripts for instructions
